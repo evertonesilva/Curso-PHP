@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{
+    font-family: 'Oswald', Arial,sans-serif;
+    box-sizing: border-box;
+
+}
+
+body{
+    height: 100vh;
+    margin: 0px;
+    display: grid;
+    
+}
